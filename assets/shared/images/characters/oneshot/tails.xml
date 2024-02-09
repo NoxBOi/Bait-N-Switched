@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tails.png">
+<SubTexture name="i0000" x="1920" y="0" width="506" height="645" frameX="-170" frameY="-406" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0001" x="2426" y="0" width="513" height="639" frameX="-166" frameY="-412" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0002" x="2939" y="0" width="480" height="658" frameX="-185" frameY="-394" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0003" x="3419" y="0" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0000" x="3890" y="0" width="545" height="641" frameX="-115" frameY="-414" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0001" x="0" y="1080" width="559" height="638" frameX="-124" frameY="-417" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0000" x="559" y="1080" width="703" height="500" frameX="-67" frameY="-566" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0001" x="1262" y="1080" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0000" x="1913" y="1080" width="512" height="801" frameX="-184" frameY="-270" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0001" x="2425" y="1080" width="566" height="784" frameX="-157" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0000" x="2991" y="1080" width="630" height="659" frameX="-105" frameY="-375" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0001" x="0" y="1881" width="626" height="660" frameX="-101" frameY="-371" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0000" x="626" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0001" x="1277" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0002" x="1928" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0003" x="1928" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0004" x="2579" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0005" x="1928" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0006" x="1928" y="1881" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0007" x="3230" y="1881" width="537" height="557" frameX="-170" frameY="-518" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0008" x="0" y="2541" width="486" height="652" frameX="-184" frameY="-401" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0009" x="486" y="2541" width="474" height="664" frameX="-189" frameY="-389" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0010" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0011" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0012" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0013" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0014" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0015" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0016" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0017" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0018" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0019" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0020" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0021" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0022" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0023" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0024" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0025" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0026" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0027" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0028" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0029" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0030" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0031" x="960" y="2541" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0032" x="1431" y="2541" width="478" height="665" frameX="-188" frameY="-388" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0033" x="1909" y="2541" width="500" height="658" frameX="-178" frameY="-395" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0034" x="2409" y="2541" width="489" height="661" frameX="-185" frameY="-392" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0035" x="0" y="3209" width="486" height="660" frameX="-186" frameY="-393" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0036" x="0" y="3209" width="486" height="660" frameX="-186" frameY="-393" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0037" x="0" y="3209" width="486" height="660" frameX="-186" frameY="-393" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0038" x="0" y="3209" width="486" height="660" frameX="-186" frameY="-393" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0039" x="0" y="3209" width="486" height="660" frameX="-186" frameY="-393" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cum down0040" x="486" y="3209" width="531" height="649" frameX="-161" frameY="-404" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0000" x="1017" y="3209" width="602" height="649" frameX="-91" frameY="-374" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0001" x="1619" y="3209" width="628" height="610" frameX="-21" frameY="-387" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0002" x="2247" y="3209" width="635" height="652" frameX="-32" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0003" x="2882" y="3209" width="716" height="841" frameX="-1" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0004" x="0" y="4050" width="691" height="813" frameX="-39" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0005" x="691" y="4050" width="690" height="800" frameX="-52" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0006" x="691" y="4050" width="690" height="800" frameX="-52" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0007" x="691" y="4050" width="690" height="800" frameX="-52" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="flying in0000" x="1381" y="4050" width="676" height="656" frameX="0" frameY="-148" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="flying in0001" x="2057" y="4050" width="674" height="659" frameX="0" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="flying in0002" x="2731" y="4050" width="673" height="660" frameX="0" frameY="-144" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="flying in0003" x="3404" y="4050" width="675" height="657" frameX="0" frameY="-147" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0000" x="0" y="4863" width="665" height="756" frameX="-4" frameY="-175" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0001" x="665" y="4863" width="671" height="507" frameX="-80" frameY="-553" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0002" x="1336" y="4863" width="651" height="515" frameX="-92" frameY="-545" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0003" x="1987" y="4863" width="473" height="659" frameX="-201" frameY="-394" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0004" x="2460" y="4863" width="471" height="666" frameX="-194" frameY="-387" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="land down0005" x="3419" y="0" width="471" height="668" frameX="-190" frameY="-385" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="vanish0000" x="2931" y="4863" width="435" height="634" frameX="-208" frameY="-402" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="vanish0001" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exe1.png">
+<SubTexture name="i0000" x="0" y="0" width="577" height="732" frameX="-213" frameY="-308" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0001" x="577" y="0" width="560" height="753" frameX="-222" frameY="-289" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0002" x="1137" y="0" width="553" height="762" frameX="-226" frameY="-281" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0003" x="1690" y="0" width="549" height="764" frameX="-228" frameY="-279" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0000" x="2239" y="0" width="617" height="708" frameX="-103" frameY="-333" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0001" x="2856" y="0" width="590" height="715" frameX="-132" frameY="-326" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0000" x="3446" y="0" width="796" height="530" frameX="-149" frameY="-517" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0001" x="4242" y="0" width="739" height="542" frameX="-193" frameY="-509" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0000" x="4981" y="0" width="520" height="825" frameX="-232" frameY="-188" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0001" x="0" y="825" width="543" height="769" frameX="-217" frameY="-240" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0000" x="543" y="825" width="825" height="649" frameX="-303" frameY="-402" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0001" x="1368" y="825" width="811" height="663" frameX="-296" frameY="-388" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0000" x="2179" y="825" width="705" height="776" frameX="-170" frameY="-252" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0001" x="2884" y="825" width="705" height="776" frameX="-97" frameY="-263" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0002" x="3589" y="825" width="737" height="787" frameX="-117" frameY="-252" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0003" x="4326" y="825" width="725" height="785" frameX="-126" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0004" x="5051" y="825" width="679" height="785" frameX="-126" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0005" x="5730" y="825" width="687" height="785" frameX="-126" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0006" x="0" y="1612" width="722" height="786" frameX="-132" frameY="-253" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0007" x="722" y="1612" width="702" height="784" frameX="-139" frameY="-255" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bastard0008" x="1424" y="1612" width="668" height="795" frameX="-159" frameY="-244" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0000" x="2092" y="1612" width="739" height="542" frameX="-193" frameY="-509" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0001" x="2092" y="1612" width="739" height="542" frameX="-193" frameY="-509" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0002" x="2831" y="1612" width="698" height="553" frameX="-213" frameY="-492" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0003" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0004" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0005" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0006" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0007" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0008" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0009" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0010" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0011" x="3529" y="1612" width="696" height="554" frameX="-213" frameY="-491" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0012" x="4225" y="1612" width="544" height="672" frameX="-283" frameY="-388" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0013" x="4769" y="1612" width="512" height="769" frameX="-327" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0014" x="5281" y="1612" width="512" height="776" frameX="-355" frameY="-280" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0015" x="0" y="2407" width="506" height="778" frameX="-361" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0016" x="0" y="2407" width="506" height="778" frameX="-361" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0017" x="506" y="2407" width="501" height="777" frameX="-350" frameY="-279" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0018" x="1007" y="2407" width="491" height="765" frameX="-322" frameY="-292" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0019" x="1498" y="2407" width="491" height="763" frameX="-332" frameY="-294" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0020" x="1989" y="2407" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0021" x="2480" y="2407" width="491" height="759" frameX="-332" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0022" x="2971" y="2407" width="491" height="759" frameX="-332" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0023" x="3462" y="2407" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0024" x="3953" y="2407" width="491" height="764" frameX="-332" frameY="-293" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0025" x="0" y="3185" width="491" height="764" frameX="-332" frameY="-293" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0026" x="491" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0027" x="982" y="3185" width="491" height="759" frameX="-333" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0028" x="1473" y="3185" width="491" height="759" frameX="-333" frameY="-298" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0029" x="1964" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0030" x="2455" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0031" x="2946" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0032" x="3437" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0033" x="3928" y="3185" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0034" x="0" y="3951" width="491" height="762" frameX="-332" frameY="-295" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0035" x="491" y="3951" width="491" height="762" frameX="-332" frameY="-295" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0036" x="982" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0037" x="1473" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0038" x="1473" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0039" x="1964" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0040" x="2455" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cumdown0041" x="2455" y="3951" width="491" height="766" frameX="-332" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0000" x="2946" y="3951" width="540" height="630" frameX="-190" frameY="-396" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0001" x="3486" y="3951" width="517" height="634" frameX="-224" frameY="-387" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0002" x="4003" y="3951" width="534" height="711" frameX="-234" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0003" x="0" y="4717" width="551" height="990" frameX="-338" frameY="-1" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0004" x="551" y="4717" width="582" height="974" frameX="-271" frameY="-47" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0005" x="1133" y="4717" width="585" height="941" frameX="-263" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0006" x="1133" y="4717" width="585" height="941" frameX="-263" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0007" x="1133" y="4717" width="585" height="941" frameX="-263" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="jiggy with it0008" x="1133" y="4717" width="585" height="941" frameX="-263" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0000" x="1718" y="4717" width="669" height="769" frameX="-172" frameY="-278" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0001" x="2387" y="4717" width="615" height="775" frameX="-199" frameY="-275" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0002" x="3002" y="4717" width="635" height="747" frameX="-189" frameY="-289" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0003" x="3637" y="4717" width="627" height="757" frameX="-193" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0004" x="3637" y="4717" width="627" height="757" frameX="-193" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0005" x="3637" y="4717" width="627" height="757" frameX="-193" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0006" x="3637" y="4717" width="627" height="757" frameX="-193" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0007" x="4264" y="4717" width="625" height="753" frameX="-194" frameY="-286" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0008" x="4889" y="4717" width="621" height="747" frameX="-196" frameY="-289" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0009" x="0" y="5707" width="625" height="751" frameX="-194" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0010" x="625" y="5707" width="627" height="757" frameX="-193" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0011" x="1252" y="5707" width="613" height="741" frameX="-200" frameY="-292" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0012" x="1865" y="5707" width="627" height="741" frameX="-193" frameY="-292" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0013" x="2492" y="5707" width="550" height="689" frameX="-186" frameY="-312" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0014" x="3042" y="5707" width="396" height="318" frameX="-425" frameY="-486" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="peas0015" x="3438" y="5707" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

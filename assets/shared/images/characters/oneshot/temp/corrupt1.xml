@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupt1.png">
+<SubTexture name="corrupt1 idle0000" x="2284" y="942" width="600" height="940" frameX="-624" frameY="-96" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 idle0001" x="707" y="1023" width="566" height="946" frameX="-644" frameY="-90" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 idle0002" x="1762" y="0" width="522" height="962" frameX="-669" frameY="-75" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 idle0003" x="1257" y="0" width="505" height="976" frameX="-679" frameY="-62" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 left0000" x="0" y="1981" width="545" height="932" frameX="-544" frameY="-109" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 left0001" x="1273" y="1023" width="532" height="945" frameX="-593" frameY="-95" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 down0000" x="1195" y="1981" width="719" height="709" frameX="-465" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 down0001" x="545" y="1981" width="650" height="745" frameX="-517" frameY="-317" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 up0000" x="0" y="0" width="606" height="1023" frameX="-630" frameY="-6" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 up0001" x="606" y="0" width="651" height="1001" frameX="-604" frameY="-27" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 right0000" x="2284" y="0" width="756" height="942" frameX="-636" frameY="-84" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="corrupt1 right0001" x="0" y="1023" width="707" height="958" frameX="-657" frameY="-69" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

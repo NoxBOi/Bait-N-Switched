@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MalicCHOOSENIGHTMARE.png">
+<SubTexture name="the rot consumes0000" x="0" y="0" width="385" height="736" frameX="-201" frameY="-192" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="the rot consumes0001" x="385" y="0" width="385" height="736" frameX="-201" frameY="-192" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="selected0000" x="0" y="736" width="385" height="736" frameX="-201" frameY="-192" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="selected0001" x="0" y="0" width="385" height="736" frameX="-201" frameY="-192" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MalicUIBUTTON.png">
+<SubTexture name="deselect0000" x="0" y="0" width="264" height="87" frameX="-293" frameY="-937" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deselect0001" x="0" y="87" width="266" height="84" frameX="-293" frameY="-935" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deselect0002" x="0" y="171" width="268" height="83" frameX="-294" frameY="-938" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="select0000" x="0" y="254" width="446" height="141" frameX="-218" frameY="-923" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="select0001" x="0" y="395" width="453" height="142" frameX="-222" frameY="-927" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

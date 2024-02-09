@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="introExe.png">
+<SubTexture name="l0000" x="0" y="0" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0001" x="585" y="0" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0000" x="1170" y="0" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0001" x="0" y="746" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0000" x="585" y="746" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0001" x="1170" y="746" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0000" x="0" y="1492" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0001" x="585" y="1492" width="585" height="746" frameX="-148" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="laugh0000" x="1170" y="1492" width="693" height="660" frameX="-210" frameY="-376" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="laugh0001" x="0" y="2238" width="684" height="684" frameX="-215" frameY="-352" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="laugh0002" x="684" y="2238" width="666" height="705" frameX="-223" frameY="-333" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="laugh0003" x="1350" y="2238" width="660" height="710" frameX="-226" frameY="-328" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

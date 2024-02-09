@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="XenoUIBUTTON.png">
+<SubTexture name="deselected0000" x="0" y="0" width="299" height="84" frameX="-1385" frameY="-89" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deselected0001" x="0" y="84" width="297" height="90" frameX="-1383" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="deselected0002" x="0" y="502" width="300" height="86" frameX="-1382" frameY="-87" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="selected0000" x="0" y="174" width="493" height="169" frameX="-1279" frameY="-42" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="selected0001" x="0" y="343" width="484" height="159" frameX="-1280" frameY="-42" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

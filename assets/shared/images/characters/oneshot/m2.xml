@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="m2.png">
+<SubTexture name="i0000" x="1629" y="0" width="502" height="595" frameX="-952" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0001" x="2131" y="0" width="490" height="598" frameX="-962" frameY="-388" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0002" x="0" y="692" width="468" height="638" frameX="-981" frameY="-350" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0003" x="468" y="692" width="460" height="646" frameX="-986" frameY="-343" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0000" x="928" y="692" width="707" height="632" frameX="-762" frameY="-376" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0001" x="1635" y="692" width="650" height="637" frameX="-822" frameY="-372" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0000" x="2285" y="692" width="720" height="538" frameX="-809" frameY="-454" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0001" x="3005" y="692" width="670" height="554" frameX="-839" frameY="-438" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0000" x="0" y="1338" width="511" height="952" frameX="-990" frameY="-53" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0001" x="511" y="1338" width="565" height="894" frameX="-949" frameY="-109" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0000" x="1076" y="1338" width="733" height="646" frameX="-1004" frameY="-364" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0001" x="1809" y="1338" width="707" height="658" frameX="-1010" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="argh0000" x="2516" y="1338" width="561" height="564" frameX="-931" frameY="-429" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="argh0001" x="3077" y="1338" width="425" height="929" frameX="-989" frameY="-77" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="argh0002" x="0" y="2290" width="459" height="893" frameX="-971" frameY="-117" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="argh0003" x="459" y="2290" width="474" height="881" frameX="-954" frameY="-118" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="argh0004" x="459" y="2290" width="474" height="881" frameX="-952" frameY="-126" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rrrrgh0000" x="933" y="2290" width="538" height="606" frameX="-939" frameY="-404" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rrrrgh0001" x="1471" y="2290" width="524" height="632" frameX="-941" frameY="-373" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rrrrgh0002" x="1995" y="2290" width="524" height="630" frameX="-949" frameY="-378" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rrrrgh0003" x="2519" y="2290" width="520" height="626" frameX="-946" frameY="-371" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rrrrgh0004" x="0" y="3183" width="524" height="632" frameX="-950" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0000" x="524" y="3183" width="690" height="642" frameX="-1008" frameY="-364" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0001" x="1214" y="3183" width="634" height="772" frameX="-982" frameY="-243" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0002" x="1848" y="3183" width="707" height="722" frameX="-911" frameY="-299" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0003" x="2555" y="3183" width="789" height="691" frameX="-824" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0004" x="3344" y="3183" width="765" height="707" frameX="-848" frameY="-314" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stop0005" x="0" y="3955" width="712" height="692" frameX="-911" frameY="-328" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mmh0000" x="0" y="0" width="423" height="635" frameX="-1009" frameY="-386" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mmh0001" x="423" y="0" width="408" height="658" frameX="-1019" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mmh0002" x="831" y="0" width="402" height="682" frameX="-1023" frameY="-344" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mmh0003" x="1233" y="0" width="396" height="692" frameX="-1027" frameY="-335" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

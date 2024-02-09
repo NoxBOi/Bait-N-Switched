@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spector.png">
+<SubTexture name="i0000" x="0" y="0" width="618" height="670" frameX="-1073" frameY="-374" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0001" x="618" y="0" width="599" height="688" frameX="-1080" frameY="-358" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0002" x="1217" y="0" width="576" height="722" frameX="-1091" frameY="-327" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="i0003" x="0" y="722" width="565" height="734" frameX="-1095" frameY="-316" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0000" x="565" y="722" width="806" height="673" frameX="-726" frameY="-369" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="l0001" x="1371" y="722" width="806" height="667" frameX="-745" frameY="-375" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0000" x="0" y="1456" width="728" height="601" frameX="-929" frameY="-452" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="d0001" x="728" y="1456" width="695" height="625" frameX="-936" frameY="-428" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0000" x="1423" y="1456" width="540" height="823" frameX="-1016" frameY="-177" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="u0001" x="0" y="2279" width="576" height="755" frameX="-978" frameY="-237" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0000" x="576" y="2279" width="822" height="597" frameX="-1075" frameY="-355" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="r0001" x="1398" y="2279" width="813" height="611" frameX="-1072" frameY="-341" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
